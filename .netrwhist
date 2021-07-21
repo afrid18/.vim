@@ -1,0 +1,3 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/Users/imamkhaja/Desktop/practice/Data_structures_and_algorithms_in_cpp/chapter_2'
